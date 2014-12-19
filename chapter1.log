@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  19 DEC 2014 10:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  19 DEC 2014 10:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -48,32 +48,44 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
-No file chapter1.toc.
+] [2] (./chapter1.toc)
 \tf@toc=\write3
 \openout3 = `chapter1.toc'.
 
-[3
+ [3
 
-] (./chapter1.aux) ) 
+] [4
+
+]
+Chapter 1.
+[5] [6
+
+]
+Chapter 2.
+[7] [8
+
+]
+Chapter 3.
+[9] [10
+
+]
+Chapter 4.
+[11] [12
+
+]
+Chapter 5.
+[13] [14
+
+]
+Chapter 6.
+[15] (./chapter1.aux) ) 
 Here is how much of TeX's memory you used:
- 251 strings out of 493117
- 2692 string characters out of 6135433
- 52909 words of memory out of 5000000
- 3788 multiletter control sequences out of 15000+600000
- 7634 words of font info for 27 fonts, out of 8000000 for 9000
+ 258 strings out of 493118
+ 2776 string characters out of 6135459
+ 53906 words of memory out of 5000000
+ 3793 multiletter control sequences out of 15000+600000
+ 8548 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  23i,6n,17p,156b,179s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr17.pfb>
-Output written on chapter1.pdf (3 pages, 43766 bytes).
-PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+Output written on chapter1.dvi (15 pages, 2744 bytes).
