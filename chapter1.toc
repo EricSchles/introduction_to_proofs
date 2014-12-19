@@ -3,4 +3,6 @@
 \contentsline {chapter}{\numberline {3}A First Technique}{9}
 \contentsline {chapter}{\numberline {4}Adding To Our List Of Techniques}{11}
 \contentsline {chapter}{\numberline {5}The Axiomatic Approach}{13}
-\contentsline {chapter}{\numberline {6}Towards a first theory}{15}
+\contentsline {chapter}{\numberline {6}Towards A First Theory}{15}
+\contentsline {chapter}{\numberline {7}Expanding Our Theory}{17}
+\contentsline {chapter}{\numberline {8}Exploring new roads}{19}
